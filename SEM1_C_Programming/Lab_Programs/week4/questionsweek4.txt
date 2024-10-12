@@ -1,0 +1,20 @@
+
+1.Write program to check if a number is prime or not using for loop.
+
+2.Write a program to find if a number is a magic number using do while loop
+Hint: Find the sum of the digits of the given number. If the product of the sum and the reverse number of the sum is the given number then the number is the magic number.
+ex: 1729: Sum of digits: 1+7+2+9=19
+the reverse of sum: 91
+product of sum and reverse of sum: 19*91=1729
+hence it is magic number.
+
+3. Write a program to print factorial of all the numbers from 1 to n using nested loop.
+Eg. If user input is 5
+Then the program prints 
+Factorial of 1= 1
+Factorial of 2= 2
+Factorial of 3= 6
+Factorial of 4=24
+Factorial of 5=120.
+
+4. Write a program to print Fibonacci series using loop.

@@ -1,0 +1,34 @@
+
+    1. Write a program which takes a user input character value and prints if its vowel or consonant or any invalid alphabet using switch statement.
+
+Syntax
+switch(variable)  // variable can be of type int or char
+{
+	case value1 : statement 1
+			break;
+	case value2 : statement 2
+			break;
+	.
+	.
+	default: 
+}
+
+
+    2. Write a program using the switch statement that will Read 2 numbers and an operator (+,-,*,/) . Based on the operator, perform the corresponding operation and print the result. (Calculator)
+
+Eg. Enter two numbers
+4 	5
+If user input is +
+Output = 9
+
+    3. Write a program using the switch statement to read a single digit no (0..9) and print the corresponding word (Zero, One .. Nine etc,)
+
+    4. Write a program using the switch statement to print the number of days in a month using switch case.
+
+    5. Write a program to print the colors of rainbow based on the user input character.
+case ‘v’:
+case ‘V’: printf(“\n Violet”); break;
+..
+case ‘r’:
+case ‘R’: printf(“\n Red”); break;
+default: printf(“\n Color is not in rainbow”); 

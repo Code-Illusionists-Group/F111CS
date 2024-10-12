@@ -1,0 +1,19 @@
+
+Q.1	Write a C program to accept an integer value (ASCII) from the user and print it’s equivalent character. The ASCII values vary from 0 to 255.
+
+Q.2	Write a program to swap the value of two variable for example: -
+value before swapping               value after swapping
+a=10						a=20
+b=20						b=10
+
+Q.3	Write a C program that takes a point (x, y) and displays the quadrant in which it falls using if-else.
+
+Q.4 Write a C program to calculate the division of a student in 5 subjects. Consider the maximum marks in a subject is 100. 
+The division will be decided as below
+Percentage	 Division
+>80	       Distinction
+>=60	       First
+>=45	       Second
+<45	       Fail
+
+Q.5 Write a program check if a character is a consonant or a vowel.

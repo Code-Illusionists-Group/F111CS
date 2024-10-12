@@ -1,0 +1,8 @@
+What is Magic Number?
+
+Enter a number: 1729
+Sum is: 1+7+2+9 = 19
+Reverse is: 91
+Sum * Reverse = 91*19 => 1729
+
+So, its a Magic Number!!

@@ -1,0 +1,7 @@
+Q1. Write a C program to accept the marks obtained by a student in 5 courses and calculate the average and percentage. (Consider maximum marks in a course is 100).
+
+Q2. Write a C program that reads a temperature value in Fahrenheit from the user, converts it to Celsius using the formula celsius = (Fahrenheit - 32) * 5 / 9, and displays the converted temperature in Celsius
+
+Q3. The total salary of any employee is a combination of basic, HRA, and allowance. The HRA is 40% of Basic. The basic and allowance will be accepted by the user. Write a C program to calculate the total salary and display it.
+
+Q4. Write a C program that reads the principal amount, rate of interest, and time in years from the user, calculates the simple interest using the formula simple_interest = (principal * rate * time) / 100, and displays the result.
