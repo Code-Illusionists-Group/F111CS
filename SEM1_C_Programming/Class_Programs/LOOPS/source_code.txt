@@ -1,0 +1,23 @@
+Pattern Printing
+https://www.programiz.com/c-programming/examples/pyramid-pattern
+
+https://www.javatpoint.com/star-program-in-c
+
+https://www.educba.com/patterns-in-c-programming/
+
+https://www.scaler.com/topics/pattern-program-in-c/
+
+
+for loop
+https://www.programiz.com/c-programming/c-for-loop
+
+https://www.w3resource.com/c-programming-exercises/for-loop/index.php
+
+https://www.javatpoint.com/for-loop-in-c
+
+https://codeforwin.org/c-programming/for-do-while-loop-programming-exercises
+
+
+All over programming in C
+https://www.programiz.com/c-programming/examples
+
